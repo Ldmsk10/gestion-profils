@@ -1,6 +1,6 @@
-# Profilio — Annuaire de profils
+# Annuaire de profils — Annuaire de profils
 
-Profilio est une petite application CRUD réalisée en PHP et MySQL. Elle permet de créer et gérer un annuaire de profils avec photo, coordonnées et présentation. Le projet privilégie un code lisible, une interface responsive et des pratiques adaptées à un premier portfolio de développeur web.
+Annuaire de profils est une petite application CRUD réalisée en PHP et MySQL. Elle permet de créer et gérer un annuaire de profils avec photo, coordonnées et présentation. Le projet privilégie un code lisible, une interface responsive et des pratiques adaptées à un premier portfolio de développeur web.
 
 ## Fonctionnalités
 

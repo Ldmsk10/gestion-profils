@@ -8,15 +8,15 @@ $flash = getFlash();
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Annuaire de profils développé en PHP et MySQL.">
-    <title><?= e($pageTitle) ?> | Profilio</title>
+    <title><?= e($pageTitle) ?> | Annuaire de profils</title>
     <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
     <header class="site-header">
         <div class="container nav-bar">
-            <a class="brand" href="index.php" aria-label="Accueil Profilio">
+            <a class="brand" href="index.php" aria-label="Accueil Annuaire de profils">
                 <span class="brand-mark">P</span>
-                <span>Profilio</span>
+                <span>Annuaire de profils</span>
             </a>
             <nav aria-label="Navigation principale">
                 <a href="index.php">Les profils</a>
