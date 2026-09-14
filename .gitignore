@@ -1,0 +1,14 @@
+# Photos envoyées par les utilisateurs
+uploads/*
+!uploads/.gitkeep
+
+# Configuration locale facultative
+.env
+
+# Fichiers générés par les outils et les systèmes
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+.runtime/
